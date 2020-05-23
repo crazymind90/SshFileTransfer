@@ -1,7 +1,9 @@
 # SshFileTransfer
-
-
 Transfer any file from Mac to iPhone over SSH
+
+
+# Supports MacOS 10.10 or later
+
 
 ### ScreenShot
 
