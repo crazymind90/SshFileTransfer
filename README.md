@@ -7,5 +7,5 @@ Transfer files from Mac to iPhone OR iPhone to Mac over SSH
 
 ### ScreenShot
 
-<img src="https://l.top4top.io/p_16893qph11.png" width="1000"/> 
+<img src="https://k.top4top.io/p_1655q4x7w1.png" width="1000"/> 
 <img src="https://raw.githubusercontent.com/crazymind90
